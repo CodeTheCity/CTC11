@@ -1,6 +1,6 @@
 # CTC11
 Parent for CTC11 projects
-There are some missing from this list, such as the one done by Codify Team for their internal cameras.
+There are some missing from this list, such as the ones mentioned at https://codethecity.org/2017/11/.
 
 ## PROD
 Productive Release of Open Data 
